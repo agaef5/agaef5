@@ -55,12 +55,6 @@ Oh, and cats? Absolutely obsessed. 🐱
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> 
   </p>
 
-  <br><br>
-  <hr>
-  <br><br>
-
-  
-
 <p align="center"> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3D444D,100:151B23&textBg=false&section=footer&reversal=true"/>
 </p>
