@@ -3,9 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:F0F1F5,100:151B23&text=Hello,%20%I'm%20Aga&textBg=false&section=header&fontAlign=50&fontColor=F0F6F5&fontSize=48"/>
 </p>
 
-Currently a Software Engineering student. Previously studied Multimedia Design, where I have learned UX/UI and gained experience in FrontEnd/FullStack Developemnt. I love building things that just work™ (and look good while doing it).
-
-Most of my projects live on my [Notion 📝](furgu-workspace.notion.site/coding-1a0a74f591d78089825dc5a6a27dae24?pvs=73furgu-workspace.notion.site/coding-1a0a74f591d78089825dc5a6a27dae24?pvs=73), where I keep track of ideas I want to build (or have already built). I’m always experimenting with new tech and trying to make my code cleaner, faster, and less likely to haunt me in my dreams 💭
+Currently a Software Engineering student. Previously studied Multimedia Design, where I have learned UX/UI and gained experience in FrontEnd/FullStack Developemnt. I love building things that just work™ (and look good while doing it). I’m always experimenting with new tech and trying to make my code cleaner, faster, and less likely to haunt me in my dreams 💭
 
 When I’m not coding, I’m creating in other ways. My hands are usually busy with crocheting, sketching, or bringing new ideas to life — whether that’s through digital design, DIY projects, or photography 📸👩‍🎨 I also have a soul hungry of beautiful views, hence I always find some funds to travel. I have a deep love for nature, and you’ll often find me outside. ✨🌿
 
